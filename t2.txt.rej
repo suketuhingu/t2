@@ -1,0 +1,8 @@
+diff a/t2.txt b/t2.txt	(rejected hunks)
+@@ -8,5 +8,5 @@
+ 
+ git_t222.....
+ 
+-git_t222, this should work!!!
++git_t222, this should work!!! -----------
+ 
